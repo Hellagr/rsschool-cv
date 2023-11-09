@@ -1,10 +1,12 @@
 ### My CV
 **1. Full Name**
 *Aleh Kushniarou*
+![photo](/photo.jpg)
 
 **2. Contact information**
 *p/n.: (+375) (44) 768-01-77*
 *Email: alehkushniarou@gmail.com*
+*Discord: alehkushniarou*
 
 **3. Brief Self-Introduction (your goals and priorities, emphasize your strengths, describe your work experience if applicable, or your desire to learn and acquire new skills)**
 *I'm a web developer with A2-level English (working
