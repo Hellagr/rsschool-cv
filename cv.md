@@ -1,55 +1,50 @@
 ### My CV
+
 **1. Full Name**
-*Aleh Kushniarou*
+_Aleh Kushniarou_
 ![photo](/photo.jpg)
 
 **2. Contact information**
-*p/n.: (+375) (44) 768-01-77*
-*Email: alehkushniarou@gmail.com*
-*Discord: alehkushniarou*
+_p/n.: (+375) (44) 768-01-77_
+_Email: alehkushniarou@gmail.com_
+_Discord: alehkushniarou_
 
 **3. Brief Self-Introduction (your goals and priorities, emphasize your strengths, describe your work experience if applicable, or your desire to learn and acquire new skills)**
-*I'm a web developer with A2-level English (working
-towards B1), seeking entry-level developer roles,
-particularly in React. I'm actively enhancing my
-development skills by taking online courses on platforms
-like Coursera and Udemy, in addition to working on my
-personal projects.*
+_I'm a web developer with A2-level English (working_
+_towards B1), seeking entry-level developer roles,_
+_particularly in React. I'm actively enhancing my_
+_development skills by taking online courses on platforms_
+_like Coursera and Udemy, in addition to working on my_
+_personal projects._
 
 **4 .Skills (programming languages, frameworks, methodologies, version control systems, and development tools you are proficient in)**
-*I'am working with: 
-HTML, CSS, Bootstrap
-Javascript, Node.js,
-NoSQL(MongoDB)
-React
-Git*
+_I'am working with:_
+_HTML, CSS, Bootstrap_
+_Javascript, Node.js,_
+_NoSQL(MongoDB)_
+_React_
+_Git_
 
 **5. Code Examples**
-https://github.com/Hellagr/todoJka - todo app
-https://github.com/Hellagr/tic-tac-toe - ttt game
-https://github.com/Hellagr/3-task-page - experience with adaptive webpage development
+*https://github.com/Hellagr/todoJka* - todo app
+*https://github.com/Hellagr/tic-tac-toe* - ttt game
+*https://github.com/Hellagr/3-task-page* - experience with adaptive webpage development
 
 **6. Work Experience**
-Self-employed
+_Self-employed_
 
 **7. Education**
-*Belarusian National Technical University1*
+_Belarusian National Technical University1_
 
-*Finished courses on udemy and coursera*
-*
-The Web Developer Bootcamp 
+_Finished courses on udemy and coursera_
 
-HTML and CSS in depth 
+_The Web Developer Bootcamp_
+_HTML and CSS in depth_
+_Programming with Javascript_
+_Version Control_
+_Introduction to Front-End Development_
+_Understanding typescript_
+_React Basics_
 
-Programming with Javascript 
-
-Version Control 
-
-Introduction to Front-End Development 
-
-Understanding typescript 
-
-React Basics
-*
 **8. English Language (your English proficiency level, and if you had language practice, describe it)**
-*At this time working toward B1 level on a offline courses*
+_At this time working toward B1 level on a offline courses_
